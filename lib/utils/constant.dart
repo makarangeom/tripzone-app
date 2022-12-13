@@ -1,0 +1,10 @@
+const int ANIMATED_BODY_MS = 500;
+const double btnHeight = 45;
+const double mainPadding = 15.0;
+const double mainBorderRadius = 10.0;
+const double bigTitle = 28;
+const double mainTitle = 20;
+const double subTitle = 18;
+const double titleResort = 16;
+const double normalTitle = 14;
+const double smallTitle = 12;
